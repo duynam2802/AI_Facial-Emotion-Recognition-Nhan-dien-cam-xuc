@@ -149,6 +149,7 @@ python -m pip install -r requirements.txt
 Sau khi đã kích hoạt venv:
 
 ```bash
+# BỎ QUA BƯỚC 1 ĐẾN 3 
 # Bước 1: Chuẩn bị data (tạo X_train, y_train, ...)
 python src/preprocess.py
 
